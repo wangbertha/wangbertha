@@ -11,6 +11,7 @@ A little about me...
 ### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,gcp,netlify,figma,python,java)](https://skillicons.dev)
 
 - HTML/CSS, JavaScript, React.JS, Git/GitHub
