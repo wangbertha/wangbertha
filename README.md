@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**wangbertha/wangbertha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little about me...
 
-Here are some ideas to get you started:
+- 🌱 I started my software engineering journey through self-learning: building independent projects and studying online resources, including an introduction to computer science college course and [The Odin Project](https://www.theodinproject.com/)
+- 👩‍🎓 I’m currently a student in [Fullstack Academy's](https://github.com/FullstackAcademy) web development immersive program
+- 💡 My love logic problems and user experience forayed into my first interests in software engineering and web development
+- ⚙ I have a background in mechanical engineering and management
+- ❤ I am enamored by the power of coding and the beauty of logical, clean code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,gcp,netlify,figma,python,java)](https://skillicons.dev)
+
+- HTML/CSS, JavaScript, React.JS, Git/GitHub
+- TypeScript, Node.JS, GoogleCloudPlatform, Netlify, Figma, Python, Java
