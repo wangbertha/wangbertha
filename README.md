@@ -14,5 +14,5 @@ A little about me...
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,gcp,netlify,figma,python,java)](https://skillicons.dev)
 
-- HTML/CSS, JavaScript, React.JS, Git/GitHub
-- TypeScript, Node.JS, GoogleCloudPlatform, Netlify, Figma, Python, Java
+- **Fundamentals:** HTML/CSS, JavaScript, React.JS, Git/GitHub
+- **Proficient/Knowledgeable:** TypeScript, Node.JS, Google Cloud Platform, Netlify, Figma, Python, Java
