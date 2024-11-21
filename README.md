@@ -5,7 +5,7 @@ A little about me...
 - ⚙ I have a background in mechanical engineering and management
 - 💡 My love for logic problems and user experience forayed into my first interests in software engineering and web development
 - 🌱 I started my software engineering journey through self-learning: building independent projects and studying online resources, including an introduction to computer science college course, algorithms & data structures, and [The Odin Project](https://www.theodinproject.com/)
-- 👩‍🎓 I’m currently a student in [Fullstack Academy's](https://github.com/FullstackAcademy) web development immersive program
+- 👩‍🎓 I’m a recent graduate of [Fullstack Academy's](https://github.com/FullstackAcademy) web development immersive program
 - 🌎 Outside of class, I have had the opportunity to contribute to open-source and nonprofit projects
 - 💻 After graduation, I'll be looking for opportunities to build/maintain software solutions in industry
 - ❤ I am enamored by the power of coding and the beauty of logical, clean code!
