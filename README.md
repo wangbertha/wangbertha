@@ -16,5 +16,5 @@ A little about me...
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,gcp,netlify,figma,python,java)](https://skillicons.dev)
 
-- **Proficient:** HTML/CSS, JavaScript, React.JS, Node.JS/Express.JS, Git/GitHub
-- **Familiar/Knowledgeable:** Python, Java, TypeScript, React-Redux, PostgreSQL, DBeaver, Google Cloud Platform, Netlify, Figma
+- **Proficient:** JavaScript, HTML, CSS, React.js, Vite, Redux, Node.js, Express.JS, Git, GitHub
+- **Familiar/Knowledgeable:** TypeScript, PostgreSQL, SQL, Prisma, DBeaver, JWT Authentication, Netlify, Render, Google Cloud Platform (GCP), Google App Engine, GCP Identity-Aware PRoxy, Figma, Python, Java
