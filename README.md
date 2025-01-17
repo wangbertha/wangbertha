@@ -12,9 +12,9 @@ A little about me...
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,nodejs,expressjs,postgresql,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,gcp,netlify,figma,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vuejs,tailwind,prisma,gcp,netlify,figma)](https://skillicons.dev)
 
 - **Primary:** JavaScript, TypeScript, Java, HTML, CSS, React.js, Vite, Redux.js, Node.js, Express.js, REST APIs, Git, GitHub
 - **Knowledgeable/Proficient:** SCSS, Tailwind, Next.js, Vue.js, Vercel, SQL, PostgreSQL, Prisma ORM, DBeaver, JWT Authentication, Netlify, Cloudflare, Render (Cloud Application Platform), Google Cloud Platform (GCP), Google App Engine, Figma
