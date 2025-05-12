@@ -4,9 +4,9 @@ After starting my career with 5 years in mechanical engineering and management, 
 
 ### Languages and Tools
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Python, Java
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Python, Java, C#
 - **Libraries & Frameworks:** React.js, Next.js, Vue.js, Node.js, Express.js, Tailwind CSS, Redux Toolkit, pandas, numpy, matplotlib, scikit-learn
-- **Tools & Platforms:** Git, GitHub, PostgreSQL, Prisma ORM, Netlify, Google Cloud Platform, Google Maps Platform
+- **Tools & Platforms:** Git, GitHub, PostgreSQL, Prisma ORM, Supabase, Netlify, Google Cloud Platform, Google Maps Platform
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java)](https://skillicons.dev)
 
