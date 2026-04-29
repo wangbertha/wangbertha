@@ -1,15 +1,11 @@
 ## Hi there! 👋
 
-After starting my career with 5 years in mechanical engineering and management, I took a gap year and explored software engineering. Its capabilities across every industry inspired me, and it had a unique style of problem-solving that reminded me of puzzles I loved from a young age. I decided to officially pivot and pursue my passion for coding through self-study and independent projects. Recently, I sought formal instruction and graduated from Fullstack Academy's 12-week web development immersive program. In the past year, I have had the opportunity to contribute to open-source and nonprofit projects.
+Coming from a background in mechanical engineering and business, I always found myself gravitating towards data and digital technology. I integrated it constantly into my work and spent my free time teaching myself to build full-stack web applications to interact with data. Eventually, I transitioned into data full-time. I enjoy interacting with data in different ways, from processing data and ensuring data accuracy to analyzing data for insights. I've had the opportunity to work with nonprofits and contribute to open source projects as well.
 
 ### Languages and Tools
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Python, Java, C#
-- **Libraries & Frameworks:** React.js, Next.js, Vue.js, Node.js, Express.js, Tailwind CSS, Redux Toolkit, pandas, numpy, matplotlib, scikit-learn
-- **Tools & Platforms:** Git, GitHub, PostgreSQL, Prisma ORM, Supabase, Netlify, Google Cloud Platform, Google Maps Platform
+- **Languages:** Python, SQL, R, VBA, JavaScript, TypeScript
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, React.js, Next.js, Vue.js, Tailwind CSS, Redux Toolkit, Node.js, Express.js
+- **Platforms:** Visual Studio Code, RStudio, PostgreSQL, Power BI, Google Cloud Platform (GCP), Git, GitHub, Prisma ORM, Netlify, Supabase
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,nodejs,expressjs,tailwind)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,prisma,netlify,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,js,ts,postgresql,gcp,git,github,prisma,netlify)](https://skillicons.dev)
